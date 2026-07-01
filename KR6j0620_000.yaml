@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0620/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說無畏陀羅尼經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1388.xml
+    old_id: T21n1388
+hash: sha256:e08fe5aace73e4ee8bf3f9aea60e912047262570c38e502c6fc5379ba5f44ccc
