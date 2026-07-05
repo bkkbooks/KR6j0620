@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0620_000.yaml, hash: 'sha256:e08fe5aace73e4ee8bf3f9aea60e912047262570c38e502c6fc5379ba5f44ccc'}
-  - {seq: 1, filename: KR6j0620_001.yaml, hash: 'sha256:dbdea8803ec631707f1f098b7d4dea1db1f9ebaf938c040419246b19c71047af'}
+  - {seq: 1, filename: KR6j0620_001.yaml, hash: 'sha256:c9dbe18f2f47673c0c140d1f2a9530addc655bab57fe19453d0142079f8886e2'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0620_001.markers.yaml, hash: 'sha256:6f58f8d8688c5e8b1bab5c630e08823591b6582c334aae2a39ac5b2c47123b44'}
+  - {seq: 0, role: markers, filename: assets/KR6j0620_000.markers.yaml, hash: 'sha256:c630410065fb1fe3ff5c153c726e167e042ee4d7c2b2b049d7d1854918be1d72'}
+  - {seq: 1, role: markers, filename: assets/KR6j0620_001.markers.yaml, hash: 'sha256:f9880a9ec7664b8fe8bf945272334220944da7577478ce1b91c482140afc255a'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 佛說無畏陀羅尼經
   type: juan
   level: 1
-hash: sha256:aba3320dfeaea2ebcc5d1387fc5950a586ff232749a64b895f05e641b1dc9bc8
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:a9b5b6512e6dd33c1af07aecf0b12d94f77ad7d420827d54fa9f6eb8f4b01b26
