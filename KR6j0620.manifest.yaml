@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0620/v1
 canonical_location: https://kanripo.org/bkk/KR6j0620/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說無畏陀羅尼經
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0620_000.yaml, hash: 'sha256:e08fe5aace73e4ee8bf3f9aea60e912047262570c38e502c6fc5379ba5f44ccc'}
-  - {seq: 1, filename: KR6j0620_001.yaml, hash: 'sha256:c9dbe18f2f47673c0c140d1f2a9530addc655bab57fe19453d0142079f8886e2'}
+  - {seq: 1, filename: KR6j0620_001.yaml, hash: 'sha256:4784dd45737b0b7494c06120d5d2a282b94cbcb8aeef8aea4a1eed87d6739ca2'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0620_000.markers.yaml, hash: 'sha256:c630410065fb1fe3ff5c153c726e167e042ee4d7c2b2b049d7d1854918be1d72'}
-  - {seq: 1, role: markers, filename: assets/KR6j0620_001.markers.yaml, hash: 'sha256:f9880a9ec7664b8fe8bf945272334220944da7577478ce1b91c482140afc255a'}
+  - {seq: 1, role: markers, filename: assets/KR6j0620_001.markers.yaml, hash: 'sha256:0f339d4c8346229b7a3381732032d053264ae8ff49a6f808201b60a0ddfd3bfc'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 佛說無畏陀羅尼經
   type: juan
   level: 1
-hash: sha256:a9b5b6512e6dd33c1af07aecf0b12d94f77ad7d420827d54fa9f6eb8f4b01b26
+hash: sha256:2c6c431044816d3cddbadcd7c2b756cac157e57ce8256a3db64ca81d598bc581
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
